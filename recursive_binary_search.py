@@ -1,4 +1,5 @@
-# Runtime:  O(log n)
+# Time Complexity:  O(log n)
+# Space Complexity:  O(log n)
 
 def recursive_binary_search(list, target, start=0, end=None):
     if end is None:

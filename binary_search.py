@@ -1,4 +1,5 @@
-# Runtime:  O(log n)
+# Time Complexity:  O(log n)
+# Space Complexity:  O(1)
 
 def binary_search(list, target):
     first = 0

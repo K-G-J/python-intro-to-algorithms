@@ -1,4 +1,5 @@
-# Runtime:  O(N)
+# Time Complexity:  O(N)
+# Space Complexity: O(1)
 
 def linear_search(list, target):
     """
